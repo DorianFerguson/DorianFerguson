@@ -1,6 +1,6 @@
 ### What's up! 👋
 
-My name is Dorian Ferguson! I'm just a man interested in learning how computers operate and communicate. Developing some cool code is always the goal. Currently i'm studying cloud enegineering (AWS) and Python!
+My name is Dorian Ferguson! I'm just a man interested in learning how computers operate and communicate. Developing some cool code is always the goal. Currently I'm studying cloud enegineering (AWS,Docker,Teraform) and Python!
 
 Find out more about me & feel free to connect with me here:
 
